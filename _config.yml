@@ -16,30 +16,26 @@ baseurl: ""
 # Name of website
 title: Naman's Blog
 
-# Short description of your site
-description: A virtual proof that I'm awesome
-
-# --- Local development options ---
-# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
-# *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
-
-# url is the the website domain URL without a trailing slash
-#url: "https://example.com"
-
-# baseurl should be an empty string
-#baseurl: ""
-
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+<<<<<<< HEAD
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
+=======
+  Info:
+    - Résumé: "resume"
+    - Projects: "projects"
+    - GitHub: "https://github.com/Naman-sopho"
+  #Author's home: "http://deanattali.com"
+>>>>>>> Initial config setup and post
 
 # Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
 
@@ -73,7 +69,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Naman Tiwari
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -81,10 +77,17 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
+<<<<<<< HEAD
   email: "someone@example.com"
   facebook: deanattali
   github: daattali
   twitter: daattali
+=======
+  email: "namantiwari.nt@gmail.com"
+  #facebook: daattali
+  github: Naman-sopho
+  #twitter: daattali
+>>>>>>> Initial config setup and post
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -106,7 +109,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "Naman's Blog"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -114,7 +117,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-119801058-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -261,9 +264,6 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-plugins:
+plugins_dir:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
