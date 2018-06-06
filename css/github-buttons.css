@@ -4,11 +4,11 @@
   box-sizing: border-box;
 }
 
-a {
+a.github-button {
   color: inherit; /* blue colors for links too */
   text-decoration: inherit; /* no underline */
 }
-a:hover {
+a.github-button:hover {
   color:blue;
 }
 
