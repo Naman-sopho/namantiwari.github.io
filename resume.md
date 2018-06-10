@@ -5,4 +5,4 @@ title: Résumé
 
 #### WIP
 
-<iframe src="https://drive.google.com/file/d/1ieYpB-XFFkipNejYADvyXhx2oRQfFM30/view?usp=sharing" style="width:600px; height:500px;" frameborder="0"></iframe>
+<iframe src="https://docs.zoho.com/embed/7c64w782b698f46224f8ab3de6941631c0fb2" scrolling="no" width="800" height="520" frameborder="0"></iframe>
