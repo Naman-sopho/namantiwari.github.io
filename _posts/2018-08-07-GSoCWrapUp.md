@@ -11,7 +11,7 @@ This post serves as a central reference for all the work done during an highly e
 code when dealing with a deadline and also that "upgradation" is not really a word :D.  
 This post consists of links to all PRs and the work done during the summer. There have been a total of about *15000 lines of code* across multiple modules and the engine of the game. Not surprisingly this boosted my github stats to a whole new level.
 <figure>
-<img src="/img/calendar.png">
+<img src="/img/calendar.png" align="centre">
 </figure>
 ## Final Product
 The final result of my 3 month contribution is a brand new gameplay scenario called the *Master Of Oreon*. This takes you to another world where you control creatures called the Oreons. There are three types make them work on tasks like building new structures, guarding the storage, planting crops, harvesting those crops etc.
