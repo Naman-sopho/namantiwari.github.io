@@ -2,6 +2,7 @@
 layout: post
 title: It is just the beginning
 subtitle: GSoC Wrap Up
+image: /img/gsoc.png
 js: [/js/github-buttons.js, /js/required.js]
 ext-js: https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js
 css: [/css/required.css, /css/github-buttons.css]
@@ -19,6 +20,6 @@ request for if not present in the village. The player also needs to collect reso
 Storage building which adds them to the storage chest, this helps in the case where a missing block for a task can be fetched by the Oreons _automagically_ and subsequently perform the original task. Though the module is currently at its minimal stage in terms of content i.e. only two
 buildings *Diner*, *Laboratory* and *Storage*, out of which only one can be upgraded, a single type of resource and *Research* task, but the adding such things is as simple as defining a prefab file for the _Books_ with a research recipe and a _StructureTemplate_ for a new building.
 
-#### List of modules
+#### List of repositories contributed to
 #### List of PRs opened
 Here is a [list of PRs](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2018-05-05+author%3ANaman-sopho) opened during the GSoC work period.
