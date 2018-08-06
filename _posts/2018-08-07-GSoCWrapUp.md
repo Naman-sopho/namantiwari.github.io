@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It is just the beginning
+title: It is just a beginning
 subtitle: GSoC Wrap Up
 image: /img/gsoc.png
 js: [/js/github-buttons.js, /js/required.js]
