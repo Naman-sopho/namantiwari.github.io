@@ -3,16 +3,15 @@ layout: post
 title: It is just a beginning
 subtitle: GSoC Wrap Up
 image: /img/gsoc.png
-bigimg: /img/gsocbignew.png
+bigimg: /img/menuBackground.jpg
 js: [/js/github-buttons.js, /js/required.js]
 ext-js: https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js
 css: [/css/required.css, /css/github-buttons.css]
 tags: [GSoC, Terasology, Oreons]
-bigimg: menuBackground.jpg
 ---
 This post serves as a central reference for all the work done during an highly eventful summer, to say the least. It has been a wonderful experience, as it involved working on an exciting gameplay scenario development and at the same time helped me learn a lot about how to write quality
 code when dealing with a deadline and also that "upgradation" is not really a word :D.  
-This post consists of links to all PRs and the work done during the summer. There have been a total of about *15000 lines of code* across multiple modules and the engine of the game. Not surprisingly this boosted my github stats to a whole new level.
+This post consists of links to all PRs opened and the work done during the summer. There have been a total of about *15000 lines of code* across multiple modules and the engine of the game. Not surprisingly this boosted my github stats to a whole new level.
 <figure>
 <img src="/img/calendar.png" align="centre">
 </figure>
