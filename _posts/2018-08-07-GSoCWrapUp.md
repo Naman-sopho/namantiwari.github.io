@@ -26,11 +26,10 @@ Storage building which adds them to the storage chest. This helps in the case wh
 
 #### List of PRs opened
 Here is a [link](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2018-05-05+author%3ANaman-sopho) to a list of PRs opened during the GSoC work period.
+
 <div class="collapsiblecontainer">
 <div id="BTs" class="collapsibleheader">
-
 + Click here for a list of PRs opened
-
 </div>
 <div class="collapsiblecontent">
 <b> MOO PRs </b><br>
@@ -67,3 +66,7 @@ Here is a [link](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E
 
 #### List of Blog Posts
 Click [here](https://naman-sopho.github.io/tags#GSoC) for a list of blog posts I made during the summer and [here](https://forum.terasology.org/threads/gsoc-2018-renovation-of-masteroforeon.2171/) for a thread of the project on Terasology's forum.
+
+## Future Prospects
+The current implementation has some issues related to replicating the _queue_ of available tasks over the multiplayer network and similar serialization/deserilization quirks like invisible Oreons when starting a saved game. As mentioned earlier the module currently also lacks some
+playable and interesting content like new types of tasks, resources to collect, buildings to construct, more upgraded versions of all buildings etc. 
