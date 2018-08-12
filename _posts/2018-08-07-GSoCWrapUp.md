@@ -71,5 +71,5 @@ Click [here](https://naman-sopho.github.io/tags#GSoC) for a list of blog posts I
 The current implementation has some issues related to replicating the _queue_ of available tasks over the multiplayer network and similar serialization/deserilization quirks like invisible Oreons when starting a saved game. As mentioned earlier the module currently also lacks some
 playable and interesting content like new types of tasks, resources to collect, buildings to construct, more upgraded versions of all buildings etc.
 ## Acknowledgements
-I would like to thank all my mentors especially Mike 'mkienenb' Kienenberger, Rasmus 'cervator' Praestholm and Aresh `vampcat` Mishra for consistently reviewing and  testing the PRs throughout the summer and pointing out how things should be done when working with a large 
+I would like to thank all my mentors especially Mike 'mkienenb' Kienenberger, Rasmus 'cervator' Praestholm and Aresh 'vampcat' Mishra for consistently reviewing and  testing the PRs throughout the summer and pointing out how things should be done when working with a large 
 codebase. I am looking forward to sticking around with this welcoming and helpful org post GSoC and contribute to the game overall especially polishing MOO's gameplay experience further.
