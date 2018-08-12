@@ -7,7 +7,7 @@ bigimg: /img/gsocbignew.png
 js: [/js/github-buttons.js, /js/required.js]
 ext-js: https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js
 css: [/css/required.css, /css/github-buttons.css]
-tags: [GSoC, Terasology]
+tags: [GSoC, Terasology, Oreons]
 ---
 This post serves as a central reference for all the work done during an highly eventful summer, to say the least. It has been a wonderful experience, as it involved working on an exciting gameplay scenario development and at the same time helped me learn a lot about how to write quality
 code when dealing with a deadline and also that "upgradation" is not really a word :D.  
@@ -31,18 +31,7 @@ Here is a [link](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E
 
 </div>
 <div class="collapsiblecontent">
-<b>Engine PRs</b><br>
-<div class="github-button" url="https://github.com/MovingBlocks/Terasology/pull/3410"></div>
-<div class="github-button" url="https://github.com/MovingBlocks/Terasology/pull/3401"></div>
-<b>Other Repositories</b><br>
-<div class="github-button" url="https://github.com/Terasology/StructureTemplates/pull/27"></div>
-<div class="github-button" url="https://github.com/Terasology/Oreons/pull/3"></div>
-<div class="github-button" url="https://github.com/Terasology/Oreons/pull/4"></div>
-<div class="github-button" url="https://github.com/Terasology/DynamicCities/pull/32"></div>
-<div class="github-button" url="https://github.com/Terasology/CombatSystem/pull/35"></div>
-<div class="github-button" url="https://github.com/Terasology/Books/pull/16"></div>
-<div class="github-button" url="https://github.com/Terasology/ChangingBlocks/pull/3"></div>
-<div class="github-button" url="https://github.com/Terasology/Behaviors/pull/14"></div>
+<b> MOO PRs </b><br>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/5"></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/6"></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/7"></div>
@@ -59,6 +48,17 @@ Here is a [link](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/25"></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/26"></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/27"></div>
- </figure>
+<b>Engine PRs</b><br>
+<div class="github-button" url="https://github.com/MovingBlocks/Terasology/pull/3410"></div>
+<div class="github-button" url="https://github.com/MovingBlocks/Terasology/pull/3401"></div>
+<b>Other Repositories</b><br>
+<div class="github-button" url="https://github.com/Terasology/StructureTemplates/pull/27"></div>
+<div class="github-button" url="https://github.com/Terasology/Oreons/pull/3"></div>
+<div class="github-button" url="https://github.com/Terasology/Oreons/pull/4"></div>
+<div class="github-button" url="https://github.com/Terasology/DynamicCities/pull/32"></div>
+<div class="github-button" url="https://github.com/Terasology/CombatSystem/pull/35"></div>
+<div class="github-button" url="https://github.com/Terasology/Books/pull/16"></div>
+<div class="github-button" url="https://github.com/Terasology/ChangingBlocks/pull/3"></div>
+<div class="github-button" url="https://github.com/Terasology/Behaviors/pull/14"></div>
 </div>
 </div>
