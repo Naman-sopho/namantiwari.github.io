@@ -7,6 +7,7 @@ bigimg: /img/gsocbignew.png
 js: [/js/github-buttons.js, /js/required.js]
 ext-js: https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js
 css: [/css/required.css, /css/github-buttons.css]
+tags: [GSoC, Terasology]
 ---
 This post serves as a central reference for all the work done during an highly eventful summer, to say the least. It has been a wonderful experience, as it involved working on an exciting gameplay scenario development and at the same time helped me learn a lot about how to write quality
 code when dealing with a deadline and also that "upgradation" is not really a word :D.  
@@ -21,6 +22,43 @@ request for if not present in the village. The player also needs to collect reso
 Storage building which adds them to the storage chest, this helps in the case where a missing block for a task can be fetched by the Oreons _automagically_ and subsequently perform the original task. Though the module is currently at its minimal stage in terms of content i.e. only two
 buildings *Diner*, *Laboratory* and *Storage*, out of which only one can be upgraded, a single type of resource and *Research* task, but the adding such things is as simple as defining a prefab file for the _Books_ with a research recipe and a _StructureTemplate_ for a new building.
 
-#### List of repositories contributed to
 #### List of PRs opened
-Here is a [list of PRs](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2018-05-05+author%3ANaman-sopho) opened during the GSoC work period.
+Here is a [link](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2018-05-05+author%3ANaman-sopho) to a list of PRs opened during the GSoC work period.
+<div class="collapsiblecontainer">
+<div id="BTs" class="collapsibleheader">
+
++ Click here for a list of PRs opened
+
+</div>
+<div class="collapsiblecontent">
+<b>Engine PRs</b><br>
+<div class="github-button" url="https://github.com/MovingBlocks/Terasology/pull/3410"></div>
+<div class="github-button" url="https://github.com/MovingBlocks/Terasology/pull/3401"></div>
+<b>Other Repositories</b><br>
+<div class="github-button" url="https://github.com/Terasology/StructureTemplates/pull/27"></div>
+<div class="github-button" url="https://github.com/Terasology/Oreons/pull/3"></div>
+<div class="github-button" url="https://github.com/Terasology/Oreons/pull/4"></div>
+<div class="github-button" url="https://github.com/Terasology/DynamicCities/pull/32"></div>
+<div class="github-button" url="https://github.com/Terasology/CombatSystem/pull/35"></div>
+<div class="github-button" url="https://github.com/Terasology/Books/pull/16"></div>
+<div class="github-button" url="https://github.com/Terasology/ChangingBlocks/pull/3"></div>
+<div class="github-button" url="https://github.com/Terasology/Behaviors/pull/14"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/5"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/6"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/7"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/8"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/9"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/10"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/11"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/19"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/20"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/21"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/22"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/23"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/24"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/25"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/26"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/27"></div>
+ </figure>
+</div>
+</div>
