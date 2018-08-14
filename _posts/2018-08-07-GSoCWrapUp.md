@@ -26,9 +26,7 @@ Storage building which adds them to the storage chest. This helps in the case wh
 
 ### Relevant resources
   
-  <iframe id="player" type="text/html" width="640" height="390"
-  src="https://youtu.be/F5CGjjePnbA"
-  frameborder="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F5CGjjePnbA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   
   
   
