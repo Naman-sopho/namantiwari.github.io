@@ -12,9 +12,13 @@ tags: [GSoC, Terasology, Oreons]
 This post serves as a central reference for all the work done during an highly eventful summer, to say the least. It has been a wonderful experience, as it involved working on an exciting gameplay scenario development and at the same time helped me learn a lot about how to write quality
 code when dealing with a deadline and also that "upgradation" is not really a word :D.  
 This post consists of links to all PRs opened and the work done during the summer. There have been a total of about *15000 lines of code* across multiple modules and the engine of the game. Not surprisingly this boosted my github stats to a whole new level.
+
+<div align="center">
 <figure>
-<img src="/img/calendar.png" align="centre">
+<img src="/img/contri.jpg">
 </figure>
+</div>
+
 ## Final Product
 The final result of my 3 month contribution is a brand new gameplay scenario called the *Master Of Oreon*. This takes you to another world where you control creatures called the Oreons. There are three types of Oreons, the _King_, _Guard_ and the _Builder_. The player can 
  them work on tasks like building new structures, guarding the storage, planting crops, harvesting those crops etc.
@@ -26,8 +30,9 @@ Storage building which adds them to the storage chest. This helps in the case wh
 
 ### Relevant resources
   
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F5CGjjePnbA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  
+  </div>
   
   
 - #### List of PRs opened
