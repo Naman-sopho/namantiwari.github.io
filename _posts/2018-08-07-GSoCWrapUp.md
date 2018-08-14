@@ -24,7 +24,15 @@ Storage building which adds them to the storage chest. This helps in the case wh
  There are only three buildings -- _Diner_, _Laboratory_ and _Storage_ -- and only one can be upgraded; and there is a single type of resource and single _Research_ task.  However, adding new content is a simple matter of defining a prefab file for the _Books_ with a research
  recipe or defining a _StructureTemplate_ for a new building.
 
-#### List of PRs opened
+### Relevant resources
+  
+  <iframe id="player" type="text/html" width="640" height="390"
+  src="https://youtu.be/F5CGjjePnbA"
+  frameborder="0"></iframe>
+  
+  
+  
+- #### List of PRs opened
 Here is a [link](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2018-05-05+author%3ANaman-sopho) to a list of PRs opened during the GSoC work period.
 
 <div class="collapsiblecontainer">
@@ -64,8 +72,12 @@ Here is a [link](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E
 </div>
 </div>
 
-#### List of Blog Posts
-Click [here](https://naman-sopho.github.io/tags#GSoC) for a list of blog posts I made during the summer and [here](https://forum.terasology.org/threads/gsoc-2018-renovation-of-masteroforeon.2171/) for a thread of the project on Terasology's forum.
+- #### List of Blog Posts
+  Click [here](https://naman-sopho.github.io/tags#GSoC) for a list of blog posts I made during the summer and [here](https://forum.terasology.org/threads/gsoc-2018-renovation-of-masteroforeon.2171/) for a thread of the project on Terasology's forum.
+- #### Other Links
+  - [Forum Thread](https://forum.terasology.org/threads/gsoc-2018-renovation-of-masteroforeon.2171/)
+  - [Project Board](http://github.com/Terasology/projects/10)
+  - [Project Proposal](https://drive.google.com/file/d/14q2m16WKgZCy5iVQbfsceRXeI7N8Wa5b/view)
 
 ## Future Prospects
 The current implementation has some issues related to replicating the _queue_ of available tasks over the multiplayer network and similar serialization/deserilization quirks like invisible Oreons when starting a saved game. As mentioned earlier the module currently also lacks some
