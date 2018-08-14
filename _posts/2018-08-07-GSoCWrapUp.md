@@ -24,8 +24,8 @@ The final result of my 3 month contribution is a brand new gameplay scenario cal
  them work on tasks like building new structures, guarding the storage, planting crops, harvesting those crops etc.
 All this work makes the Oreons lose health and develop hunger, now to replenish this health and satisfy their hunger the Oreons have to visit a Diner and Hospital. The Oreons can also train a myriad of attributes through various buildings like the Gym and Classroom, which they subtly 
 request for if not present in the village. The player also needs to collect resources and put them into chests of buildings which requre them. For eg: the Diner requires a `Cookie Crop` block to be present in its chest in order to serve an Oreon. The player can also drop blocks inside the 
-Storage building which adds them to the storage chest. This helps in the case where a missing block for a task can be fetched by the Oreons _automagically_ and subsequently perform the original task. The module is currently at a minimal stage in terms of content. 
- There are only three buildings -- _Diner_, _Laboratory_ and _Storage_ -- and only one can be upgraded; and there is a single type of resource and single _Research_ task.  However, adding new content is a simple matter of defining a prefab file for the _Books_ with a research
+Storage building which adds them to the storage chest. This helps in the case where a missing block for a task can be fetched by the Oreons _automagically_ and subsequently perform the original task. A minimal viable product (MVP) was finished over the summer. 
+ The module currently consists of three buildings -- _Diner_, _Laboratory_ and _Storage_ -- and one of them can be upgraded; and there is a single type of resource and a single _Research_  recipe.  However, adding new content is a simple matter of defining a prefab file for the _Books_ with a research
  recipe or defining a _StructureTemplate_ for a new building.
 
 ### Relevant resources
