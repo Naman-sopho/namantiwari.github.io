@@ -7,7 +7,7 @@ js: [/js/github-buttons.js, /js/required.js]
 ext-js: https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js
 css: [/css/required.css, /css/github-buttons.css]
 tags: [GSoC, Terasology, Oreons]
-bigimg: /img/menuBackground.jpg
+
 ---
 This post serves as a central reference for all the work done during an highly eventful summer, to say the least. It has been a wonderful experience, as it involved working on an exciting gameplay scenario development and at the same time helped me learn a lot about how to write quality
 code when dealing with a deadline and also that "upgradation" is not really a word :D.  
@@ -36,45 +36,9 @@ Storage building which adds them to the storage chest. This helps in the case wh
   
   
 - #### List of PRs opened
-Here is a [link](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2018-05-05+author%3ANaman-sopho) to a list of PRs opened during the GSoC work period.
+Here is a [link](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A2018-05-05..2018-08-13+author%3ANaman-sopho) to a list of PRs opened during the GSoC work period.
 
-<div class="collapsiblecontainer">
-<div id="BTs" class="collapsibleheader">
-+ Click here for a list of PRs opened
-</div>
-<div class="collapsiblecontent">
-<b> MOO PRs </b><br>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/5"><a href="https://github.com/Terasology/MasterOfOreon/pull/5">PR #5</a></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/6"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/7"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/8"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/9"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/10"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/11"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/19"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/20"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/21"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/22"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/23"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/24"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/25"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/26"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/27"></div>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/28"></div>
-<b>Engine PRs</b><br>
-<div class="github-button" url="https://github.com/MovingBlocks/Terasology/pull/3410"></div>
-<div class="github-button" url="https://github.com/MovingBlocks/Terasology/pull/3401"></div>
-<b>Other Repositories</b><br>
-<div class="github-button" url="https://github.com/Terasology/StructureTemplates/pull/27"></div>
-<div class="github-button" url="https://github.com/Terasology/Oreons/pull/3"></div>
-<div class="github-button" url="https://github.com/Terasology/Oreons/pull/4"></div>
-<div class="github-button" url="https://github.com/Terasology/DynamicCities/pull/32"></div>
-<div class="github-button" url="https://github.com/Terasology/CombatSystem/pull/35"></div>
-<div class="github-button" url="https://github.com/Terasology/Books/pull/16"></div>
-<div class="github-button" url="https://github.com/Terasology/ChangingBlocks/pull/3"></div>
-<div class="github-button" url="https://github.com/Terasology/Behaviors/pull/14"></div>
-</div>
-</div>
+
 
 - #### List of Blog Posts
   Click [here](https://naman-sopho.github.io/tags#GSoC) for a list of blog posts I made during the summer and [here](https://forum.terasology.org/threads/gsoc-2018-renovation-of-masteroforeon.2171/) for a thread of the project on Terasology's forum.
