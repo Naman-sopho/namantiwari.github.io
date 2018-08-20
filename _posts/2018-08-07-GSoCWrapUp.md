@@ -21,8 +21,8 @@ This post consists of links to all PRs opened and the work done during the summe
 
 <div class="collapsiblecontainer">
 <div id="BTs" class="collapsibleheader">
-<div align="center>
-<div style="font-color=white">
+<div align="center">
+<div style="color:white">
 + Click here for a list of PRs opened
 </div>
 </div>
