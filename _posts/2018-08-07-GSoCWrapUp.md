@@ -41,13 +41,14 @@ Here is a [link](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A201
 <div align="center">
 <div class="collapsiblecontainer">
 <div id="BTs" class="collapsibleheader">
-<div style="color=white">  
+<div style="text-color=white">  
 + Click here for a list of PRs opened
+</div>
 </div>
 </div>
 <div class="collapsiblecontent">
 <b> MOO PRs </b><br>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/5"><a href="https://github.com/Terasology/MasterOfOreon/pull/5">PR #5</a></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/5"></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/6"></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/7"></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/8"></div>
@@ -76,7 +77,6 @@ Here is a [link](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A201
 <div class="github-button" url="https://github.com/Terasology/Books/pull/16"></div>
 <div class="github-button" url="https://github.com/Terasology/ChangingBlocks/pull/3"></div>
 <div class="github-button" url="https://github.com/Terasology/Behaviors/pull/14"></div>
-</div>
 </div>
 </div>
 
