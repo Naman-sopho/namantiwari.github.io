@@ -29,7 +29,7 @@ This post consists of links to all PRs opened and the work done during the summe
 </div>
 <div class="collapsiblecontent">
 <b> MOO PRs </b><br>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/5"><a href="https://github.com/Terasology/MasterOfOreon/pull/5">PR #5</a></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/5"></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/6"></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/7"></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/8"></div>
