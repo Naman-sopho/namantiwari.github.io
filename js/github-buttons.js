@@ -12,7 +12,7 @@ function createButtons() {
     	var num = params[6];
 
     	if (url.indexOf("pull") !== -1) {
-    		url = "https://api.github.com/repos/" + owner + "/" + repo + "/pulls/" + num;
+    		url = "https://api.github.com/repos/" + owner + "/" + repo + "/pulls/" + num+"?client_id=7462ab646588a0ea80ed&client_secret=5dc91962a0393e906b7fd586eb8111f6fa393576";
     		$.get(
 			    url,
 			    function(data) {
