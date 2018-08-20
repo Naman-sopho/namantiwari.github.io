@@ -3,11 +3,11 @@ layout: post
 title: It is just a beginning
 subtitle: GSoC Wrap Up
 image: /img/gsoc.png
-bigimg: /img/menuBackground.jpg
 js: [/js/github-buttons.js, /js/required.js]
 ext-js: https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js
 css: [/css/required.css, /css/github-buttons.css]
 tags: [GSoC, Terasology, Oreons]
+bigimg: /img/menuBackground.jpg
 ---
 This post serves as a central reference for all the work done during an highly eventful summer, to say the least. It has been a wonderful experience, as it involved working on an exciting gameplay scenario development and at the same time helped me learn a lot about how to write quality
 code when dealing with a deadline and also that "upgradation" is not really a word :D.  
@@ -44,7 +44,7 @@ Here is a [link](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E
 </div>
 <div class="collapsiblecontent">
 <b> MOO PRs </b><br>
-<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/5"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/5"><a href="https://github.com/Terasology/MasterOfOreon/pull/5">PR #5</a></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/6"></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/7"></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/8"></div>
@@ -60,6 +60,7 @@ Here is a [link](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/25"></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/26"></div>
 <div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/27"></div>
+<div class="github-button" url="https://github.com/Terasology/MasterOfOreon/pull/28"></div>
 <b>Engine PRs</b><br>
 <div class="github-button" url="https://github.com/MovingBlocks/Terasology/pull/3410"></div>
 <div class="github-button" url="https://github.com/MovingBlocks/Terasology/pull/3401"></div>
