@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Equipping my quiver of skills
-subtitle: Learning "Machine Learning"
+title: Learning "Machine Learning"
+subtitle: Equipping my quiver of skills
 image: /img/ml.jpg
 js: [/js/github-buttons.js, /js/required.js]
 ext-js: https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js
@@ -14,9 +14,13 @@ concepts in Machine Learning and Artificial Intelligence in general, but all of 
 I started with some MIT-OCW classes and the IntelStudentsKit to learn the basics. Here is a list of all the sources I used :  
 	- *Intel Student Kits* listed [here](https://software.intel.com/en-us/ai-academy/students/kits) especially _Machine Learning 501_ and _Deep Learning 501_. These kits include study material and exercise "notebooks"<a href="#notebooks"><sup>[1]</sup></a> divided up into
              chunks of week long tasks which makes them convinient to follow.  
-	- [6.034 Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) from the MIT-OpenCourseWare catalogue. This Prof. Winston instructed course is great and piquing the interest of any student and 
+	- [6.034 Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) from the MIT-OpenCourseWare catalogue. This Prof. Winston instructed course is great at piquing the interest of any student and 
 	also helps in understanding some really complex topics like Support Vector Machines with ease.  
 	- Besides the exercises in the Intel Student Kits I also reffered to some lessons and examples on [Kaggle](https://www.kaggle.com/learn/machine-learning) too to get a broader prespective on how things are/should be done.  
 	- And the holy grail of courses for machine learning beginners, [Machine Learning by Andrew Ng ](https://www.coursera.org/learn/machine-learning) on Coursera.
 
+### What is Machine Learning? Why all the buzz?
+without explicitly programming 
+Supervised tell the computer the correct answer Regression Classification
+Unsupervised structure the data when we do not know
 
