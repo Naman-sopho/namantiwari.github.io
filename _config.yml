@@ -22,7 +22,7 @@ title: Naman's Blog
 navbar-links:
   About Me: "aboutme"
   Info:
-    - Résumé: "/docs/CV.pdf"
+    - Résumé: "https://naman-sopho.github.io/docs/CV.pdf"
     - Projects: "projects"
     - GitHub: "https://github.com/Naman-sopho"
 
