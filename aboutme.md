@@ -3,16 +3,8 @@ layout: page
 title: About me
 image: 
 css: [/css/home.css]
+show-avatar: false
 ---
-<<<<<<< HEAD
-
-<section class="hero">
-     <div class="hero-inner">
-         <div class="hero-container">
-            <img src="/img/profile.jpg" alt="author thumb" class="dot">
-        </div>
-     </div>
-</section>
 
 <!-- Typed.js --> 
 <script src="/js/jquery-1.11.2.min.js"></script> <!-- Typed.js uses old jquery ver -->
@@ -40,6 +32,3 @@ css: [/css/home.css]
 
 
 I am currently a final year student at Indian Institute of Technology(ISM), Dhanbad with a major in Electrical Engineering and a minor Computer Science and Engineering.
-=======
-I am currently a final year student at Indian Institute of Technology(ISM), Dhanbad with a major in Electrical Engineering and a minor Computer Science and Engineering.
->>>>>>> modify homepage and about me content and config
