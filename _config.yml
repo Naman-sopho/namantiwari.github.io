@@ -16,6 +16,11 @@ baseurl: ""
 # Name of website
 title: Naman's Blog
 
+# Short description of your site
+#description: A virtual proof that name is awesome!
+
+paginate_path: "/blog/page:num/"
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
