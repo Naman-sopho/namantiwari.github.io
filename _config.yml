@@ -21,6 +21,7 @@ title: Naman's Blog
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Blog: "blog"
   Info:
     - Résumé: "https://naman-sopho.github.io/docs/CV.pdf"
     - Projects: "projects"
