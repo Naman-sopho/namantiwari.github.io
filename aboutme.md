@@ -6,7 +6,7 @@ image:
 
 <div class="avatar-container">
 <div class = "avatar-img-border">
-<img class="post-img" src="/img/profile.jpg">
+<img class="avatar-img" src="/img/profile.jpg">
 </div>
 </div>
 
@@ -16,7 +16,7 @@ image:
 <script>
   $(function(){
     $(".typed").typed({
-      strings: [" to code my way through life", ""],
+      strings: [" to code my way through life", "to know things"],
       typeSpeed: 100,
       loop: true,
       backDelay: 1000
