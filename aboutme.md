@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-image: 
 css: [/css/home.css]
 show-avatar: false
 ---
