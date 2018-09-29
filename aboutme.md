@@ -4,7 +4,11 @@ title: About me
 image: 
 ---
 
+<div class="avatar-container">
+<div class = "avatar-img-border>
 <img class="avatar-img" src="/img/profile.jpg">
+</div>
+</div>
 
 <!-- Typed.js --> 
 <script src="/js/jquery-1.11.2.min.js"></script> <!-- Typed.js uses old jquery ver -->
@@ -24,7 +28,7 @@ image:
   <div class="row">
     <div class="col-sm-12">
       <div class="text-center">
-          <h1>I like<span class="typed" style="color:#890000";></span></h1>
+          <h1>I like<span class="typed" style="color:#890000"></span></h1>
       </div>
     </div>
   </div>
