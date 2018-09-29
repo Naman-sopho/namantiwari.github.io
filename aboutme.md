@@ -2,13 +2,16 @@
 layout: page
 title: About me
 image: 
+css: [/css/home.css]
 ---
 
-<div class="avatar-container">
-<div class = "avatar-img-border">
-<img class="avatar-img" src="/img/profile.jpg">
-</div>
-</div>
+<section class="hero">
+     <div class="hero-inner">
+         <div class="hero-container">
+            <img src="/img/profile.jpg" alt="author thumb" class="dot">
+        </div>
+     </div>
+</section>
 
 <!-- Typed.js --> 
 <script src="/js/jquery-1.11.2.min.js"></script> <!-- Typed.js uses old jquery ver -->
@@ -16,7 +19,7 @@ image:
 <script>
   $(function(){
     $(".typed").typed({
-      strings: [" to code my way through life", "to know things"],
+      strings: [ " to know things.", " to code my way through life."],
       typeSpeed: 100,
       loop: true,
       backDelay: 1000
