@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title: About me
 css: [/css/home.css]
 show-avatar: false
