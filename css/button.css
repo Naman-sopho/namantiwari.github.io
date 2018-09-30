@@ -15,6 +15,7 @@ button {
   padding: 20px 35px;
   margin-top: 30px;
   margin-right: 20px;
+  vertical-align: middle;
   font-size: 20px;
   font-family: "Open Sans", Helvetica;
   border-radius: 8px;
