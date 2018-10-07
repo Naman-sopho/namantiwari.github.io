@@ -28,17 +28,24 @@ Intelligence well deserves the recent buzz as practically any task that can be l
   - Using *Reinforcement Learning* the machine trained in a scenario using where it has to make decisions and learns using trial and error.  
   
 With several regression techniques to fit a model, validation techniques, classification algorithms, parameter fitting with gradient descent/normalization and 
-not to mention the regularisation techniques learning ML concepts gets overwhelming for a beginner pretty quick. So I intend this blog as a one stop spot for all the crucial concepts in brief, which would act as a revision for concepts and might also establish some few flow ideas for when
+not to mention the regularisation techniques learning ML concepts gets overwhelming for a beginner pretty quick. So I intend this blog as a one stop spot for all the crucial concepts in brief, which would act as a revision for concepts and might also establish a few flow of ideas for when
 approaching new problems. Lets dive into the good stuff then.
 
-========= WIP ================
-Target 
-label
-example 
-features
+#### Some terminologies
+In supervised learning the following terms are used to denote different aspects of the _labelled_ dataset:  
+  - Target : The value that is to be predicted is reffered to as the target i.e. in the housing prices example, the price of a house (given its size, number of bedrooms etc).
+  - Label : The target value for a single data point in the dataset is called as its label.
+  - Example : A datapoint in the set is commonly known as an example in the ML world.
+  - Features : The different properties of a example which are used to predict the target are known as the features. Therefore, in the housing examples various features would be the size, number of bedrooms, location etc.
 
-A general flow for problem solving through machine learning
-
+#### A general flow for Supervised Machine Learning
+While I was starting with supervised learning various types of regression and validation techniques confused me a lot, so I came up with the following diagram to get a clear idea what each method did. 
+  <figure>
+<img src="/img/supervised.png">
+<figcaption></figcaption>
+</figure>  
+  
+Without getting too deep into the mathematics behind each one(Andrew Ng's course on Coursera would be a great place to learn that), in the following section let us understand each component in the diagram.
 Linear regression
 Fitting parameters for regression
 cost functin
