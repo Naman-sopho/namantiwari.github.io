@@ -46,6 +46,8 @@ While I was starting with supervised learning various types of regression and va
 </figure>  
   
 Without getting too deep into the mathematics behind each one(Andrew Ng's course on Coursera would be a great place to learn that), in the following section let us understand each component in the diagram.
+
+================WIP===================================  
 Linear regression
 Fitting parameters for regression
 cost functin
