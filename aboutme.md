@@ -30,7 +30,7 @@ show-avatar: false
 </div>
 
 
-I am currently a final year student at Indian Institute of Technology(ISM), Dhanbad pursuing a Bachelor of Technology in Electrical Engineering with a minor Computer Science and Engineering.  
+I am currently a Graduate student at Johns Hopkins University, pursuing a Masters in Computer Science. I completed my Bachelors of Technology in Electrical Engineering with a minor Computer Science and Engineering from IIT, Dhanbad in Jul, 2019.  
 
 Coding has been more than just a hobby for a long time. I have been fond of programming ever since I knew what it meant. I continue to learn and build new stuff each day.  
 
